@@ -19,10 +19,9 @@ In this lesson, you’ll:
 1. Fork this repo
 2. Clone this repository using **GitHub Desktop**.  
 3. Open the project in **VS Code**.  
-4. Explore the provided `index.html` and `style.css` files.  
-5. Answer **technical questions** in `technical-questions.html`.  
-6. Make changes to the HTML & CSS files.  
-7. Commit and push your updates to GitHub.  
+4. Explore the provided files.
+5. Answer **technical questions** in `technical-questions.html`.   
+6. Commit and push your updates to GitHub.  
 
 ---
 
@@ -42,8 +41,6 @@ Inside this repo, you'll find:
 
 - `README.md` → This file, explaining what to do.  
 - `technical-questions-2.html` → Where you answer web development questions.  
-- `index.html` → The main HTML file for your project.  
-- `style.css` → The CSS file controlling how the page looks.  
 
 ---
 
@@ -57,21 +54,14 @@ Inside this repo, you'll find:
 - Open **GitHub Desktop**.  
 - Click **File → Clone Repository**.  
 - Select this repo and **clone it to your computer**.  
-- Click **Open in Visual Studio Code**.  
+- Click **Open in Visual Studio Code**.   
 
-### 3️⃣ Open & Explore the Code  
-- Open **`index.html`** in VS Code.  
-- Open **`style.css`** in VS Code.  
-- Click **Go Live** (bottom-right) to see the website preview.  
-
-### 4️⃣ Answer the Technical Questions  
+### 3️⃣ Answer the Technical Questions  
 - Open `technical-questions.html`.  
 - Look for 🔹 **blue stars** in the comments.  
 - Write your answers under each **blue star comment**.  
 
-### 5️⃣ Modify the Website  
-- Change something in `index.html` (e.g., update text, add a heading).  
-- Change something in `style.css` (e.g., modify colors, fonts).  
+### 4️⃣ Save your changes 
 - Save your work (`Ctrl + S` / `Cmd + S`).  
 
 ---
